@@ -1,5 +1,5 @@
 # Inference for ONNX model
-#수정 최최종 진짜 최종 ww
+#수정 최최종 진짜 최종 ww stop
 import cv2
 import tensorflow.compat.v2 as tf
 cuda = True
