@@ -1,4 +1,3 @@
-
 # Inference for ONNX model
 #수정 최최종 진짜 최종 ww
 import cv2
